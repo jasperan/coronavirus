@@ -1,2 +1,2 @@
 # coronavirus
-Live coronavirus count in http://jasperan.ninja/coronavirus
+Live coronavirus count in http://jasperan.ninja/coronavirus.html
