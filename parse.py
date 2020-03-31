@@ -8,7 +8,7 @@ app = Flask(__name__)
 def hello_world():
 	return 'Hello, World!'
 
-@app.route('/covid19')
+@app.route('/covid19', methods=['GET', 'POST', 'OPTIONS'])
 def covid19():
 	return main()
 
