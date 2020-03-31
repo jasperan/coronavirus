@@ -9,8 +9,8 @@ def hello_world():
 	return 'Hello, World!'
 
 @app.route('/covid19')
-	def covid19():
-		return main()
+def covid19():
+	return main()
 
 def main():
 	# https://thevirustracker.com/free-api?countryTotal=ES
